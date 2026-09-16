@@ -14,3 +14,7 @@ print("Hallo, " = naam)
 print(len(naam))
 ```
 ## String-methodes
+| Methode | Beschrijving |
+| ------- | ------------ |
+| `.upper()` | Hoofdletters |
+| `.lower()` | Kleine letters |
