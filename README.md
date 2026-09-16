@@ -8,6 +8,6 @@ Een **string* is een reeks tekens die je gebruikt om tekst op te slaan, zoals `"
 * **Samenvoegen** met `+`
 * Lengte opvragen met `len()`
 * *Slicing* om een deel op te vragen
-  `Naam = "Python"
-  print("Hallo, " = naam)
-  print(len(naam))`
+`Naam = "Python"
+print("Hallo, " = naam)
+print(len(naam))`
