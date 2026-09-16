@@ -19,4 +19,4 @@ print(len(naam))
 | `.upper()` | Hoofdletters |
 | `.lower()` | Kleine letters |
 
-Meer info: [Python documentatie] (https://docs.python.org/3/builtins/stdtypes.html#string-methods)
+Meer info: [Python documentatie](https://docs.python.org/3/builtins/stdtypes.html#string-methods)
