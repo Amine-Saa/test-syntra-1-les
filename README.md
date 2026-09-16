@@ -4,3 +4,10 @@ Een **string* is een reeks tekens die je gebruikt om tekst op te slaan, zoals `"
 1. Met enkel aanhalingstekens: > `'tekst'`
 2. Met dubbele aanhalingstekens: > `"tekst"`
 3. Met drie aanhalingstekens voor meerdere regels.
+## Veel gebruikte bewerkingen
+* **Samenvoegen** met `+`
+* Lengte opvragen met `len()`
+* *Slicing* om een deel op te vragen
+  `Naam = "Python"
+  print("Hallo, " = naam)
+  print(len(naam))`
